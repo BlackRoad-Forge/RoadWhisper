@@ -1,3 +1,20 @@
+# RoadWhisper
+
+> Speech-to-text on Hailo-8 accelerators — Whisper
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — 18 orgs, 20 domains, 200 agents.
+
+Forked from [`hailocs/hailo-whisper`](https://github.com/hailocs/hailo-whisper) and enhanced for the BlackRoad sovereign stack.
+
+| | |
+|---|---|
+| **Language** | Multiple |
+| **Organization** | [BlackRoad-Forge](https://github.com/BlackRoad-Forge) |
+| **License** | See upstream |
+| **Homepage** | [blackroad.io](https://blackroad.io) |
+
+---
+
 # Hailo Whisper - Whisper Model Conversion and Evaluation for Hailo Devices
 
 This repository provides a streamlined approach to convert and deploy OpenAI's Whisper model on the Hailo-8 and Hailo-10H AI accelerators. It includes necessary scripts and configurations to export, convert and evaluate the models using Hailo SDK.  
